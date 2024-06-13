@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="2"
+    android:orientation="vertical"
+    tools:context=".Admin_Home"
+    android:background="@drawable/back">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:text="Welcome "
+        android:textStyle="bold"
+        android:textColor="@color/Topic"
+        ></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:text="Admin !"
+        android:textStyle="bold"
+        android:textColor="@color/Topic"
+        ></TextView>
+
+    <Button
+        android:id="@+id/btn_DonorList"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/custom_button"
+        android:layout_height="150dp"
+        android:textSize="20dp"
+        android:text="List of Donor"></Button>
+    <Button
+        android:id="@+id/btn_RequestRecipient"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/custom_button"
+        android:text="Request From \nRecipient"
+        android:textSize="20dp"></Button>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottom_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:itemBackground="@color/white"
+            app:itemIconTint="@color/Topic"
+            app:itemTextColor="@color/Topic"
+            app:menu="@menu/menu_navigaton"
+            android:layout_alignParentBottom="true"
+            ></com.google.android.material.bottomnavigation.BottomNavigationView>
+
+    </RelativeLayout>
+
+</LinearLayout>

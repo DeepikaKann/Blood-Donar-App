@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string-array name="Blood_Group">
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string-array name="District">
+        <item>Matara</item>
+        <item>Galle</item>
+        <item>Hambantota</item>
+        <item>Colombo</item>
+        <item>Gampaha</item>
+        <item>Kalutara</item>
+        <item>Badulla</item>
+        <item>Monaragala</item>
+        <item>Matale</item>
+        <item>Kandy</item>
+        <item>Nuwara Eliya</item>
+        <item>Kegalla</item>
+        <item>Rathnapura</item>
+        <item>Anuradhapura</item>
+        <item>Polonnaruwa</item>
+        <item>Trincomalee</item>
+        <item>Batticaloa</item>
+        <item>Ampara</item>
+        <item>Puttalam</item>
+        <item>Kurunegala</item>
+        <item>Jaffna</item>
+        <item>Kilinochchi</item>
+        <item>Mannar</item>
+        <item>Mullaitivu</item>
+        <item>Vavuniya</item>
+    </string-array>
+
+</resources>

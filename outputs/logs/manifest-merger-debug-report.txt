@@ -1,0 +1,564 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\2162362b577b95f42fe8e13cfe6280e3\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\875d0310c099dde0d290a5a8b1746a18\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7ab1e7d2ab8a70ffa3d5842967c08e38\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b6b56c409f262d6e2354075a9a1c3603\transformed\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9a0660050ab2626e47f03e5ea2ba51a4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\2d4cefafcf60e76440d478ea2c839fad\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d0661dc44157dab575bc57733daba254\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\99adbdcf7d83aa19480b79753eabe945\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\0eebdd3c719ac11bef042a88e1ecfb4c\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7f9c51f97ad623aaaacfe2f30dd698f0\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7157932ea1f8a7150039aea6456574c7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\737b1a5fb970ed81ec96adcccd707d06\transformed\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\6119a0fe12f42df2368c488c71c89bcc\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c6039a455da53dd89411a337c12b45d8\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\cd26661234726f4949933b55025f7630\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\aa3d64685820f83ad8dd26017886c87b\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d8735fe73d18dabd7989d38d9723aac2\transformed\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\4540d470db6da44a738c1665a5121009\transformed\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3b398ea0462cfbe0b9bee6518ed83af4\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a5dcb88af21102a7848020accf3622c7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b65fb00da8ba0c1ace080ae0b3f52811\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\e5ba8ab11887156e68b51536b337588b\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\384e3f963c476b89d61fdbfd037e9d8c\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f17ebcfc80a6fd1594585f2db1e9dafa\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d10b013836b7b2e3b366c7528a68beaf\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\67cbff836573cf03de2444812a93344d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a3ff32ef5d2808b49ebf8e891b925eba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f0402125175d910de7380a17d782c686\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3f7702c6a2c40601398ffb3f6cbf3db5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9a2a0ecf086e3f5f3ac87aa34f64ea6b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9462b3ef9af2ccbcdec50fcaf68af8a3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7e1d929a5ac90d1e9cee61485da2ef09\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\19be963cda59ca85c4df8353c5146773\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\20ee99555c5d24c394bb379fa707cfa9\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\6e7bb72d29dc3ad846c4ef7a2dd7defb\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\26867c381dfd7ecafbaf4e0b6e0c07d4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9a0e3796ce949eeaa6fdb49fb4c290cf\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\5d5637557781c066d54f10e174192d68\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\4cb5a44a2daae1bb944441949e7a4cd6\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b934dd1b8c5e55737621b96b632a6c31\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\556d004c7dbb2806ed9291dd60be97e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\07156eed3b322c13f4df814a749ad87d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\76db4f7dfd07bc6e4f80ad7a74f47fb6\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\cdff0965d9deac1d5b29ea1c18501a78\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\44ab3fd061aec26a9a4c2a111750f29f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\5fbc1ea6d3dbb12382be1227cbf7b228\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\0cd1ace46fc7a4183db736c81cda3598\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\358b6e48dcb770a51c63bc33382d2cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\5f6566c38452ac200189c873311e7040\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\31c0384895539f2fafe80395fc5f555b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\e698c9d62af73dbcfa8ec1ba1ed145ad\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\56205849cda793108dce21b1ae8c9e27\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\ec38ceacc072a51b92bbbcc53863a17d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a1c0e7d895d33336542416afd9a7c080\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\86f035b235149c8b059c15034bf26994\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9f4611b1773a88ec63aea1975b846358\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3166d400fd57670ab71232d630279402\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7430fd94c6b4b9b8d6e650fa3af9a054\transformed\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:5:5-32:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\2162362b577b95f42fe8e13cfe6280e3\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\2162362b577b95f42fe8e13cfe6280e3\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\875d0310c099dde0d290a5a8b1746a18\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\875d0310c099dde0d290a5a8b1746a18\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b6b56c409f262d6e2354075a9a1c3603\transformed\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b6b56c409f262d6e2354075a9a1c3603\transformed\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\0eebdd3c719ac11bef042a88e1ecfb4c\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\0eebdd3c719ac11bef042a88e1ecfb4c\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7157932ea1f8a7150039aea6456574c7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7157932ea1f8a7150039aea6456574c7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\737b1a5fb970ed81ec96adcccd707d06\transformed\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\737b1a5fb970ed81ec96adcccd707d06\transformed\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\6119a0fe12f42df2368c488c71c89bcc\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\6119a0fe12f42df2368c488c71c89bcc\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\cd26661234726f4949933b55025f7630\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\cd26661234726f4949933b55025f7630\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\aa3d64685820f83ad8dd26017886c87b\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\aa3d64685820f83ad8dd26017886c87b\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\4540d470db6da44a738c1665a5121009\transformed\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\4540d470db6da44a738c1665a5121009\transformed\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3b398ea0462cfbe0b9bee6518ed83af4\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3b398ea0462cfbe0b9bee6518ed83af4\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a5dcb88af21102a7848020accf3622c7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a5dcb88af21102a7848020accf3622c7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b65fb00da8ba0c1ace080ae0b3f52811\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b65fb00da8ba0c1ace080ae0b3f52811\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b934dd1b8c5e55737621b96b632a6c31\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b934dd1b8c5e55737621b96b632a6c31\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\358b6e48dcb770a51c63bc33382d2cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\358b6e48dcb770a51c63bc33382d2cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b934dd1b8c5e55737621b96b632a6c31\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:11:9-47
+activity#com.example.bloodbank.Admin_LogOut
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:12:9-59
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:12:19-47
+activity#com.example.bloodbank.Request_to_donors
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:13:9-55
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:13:19-52
+activity#com.example.bloodbank.Recipient_List
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:14:9-52
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:14:19-49
+activity#com.example.bloodbank.List_Of_Donors
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:15:9-52
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:15:19-49
+activity#com.example.bloodbank.Admin_Home
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:16:9-48
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:16:19-45
+activity#com.example.bloodbank.Admin_Login
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:17:9-49
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:17:19-46
+activity#com.example.bloodbank.Donor_detail
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:18:19-47
+activity#com.example.bloodbank.Donor_register
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:19:19-49
+activity#com.example.bloodbank.Recipient_page
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:20:19-49
+activity#com.example.bloodbank.Donor_page
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:21:9-48
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:21:19-45
+activity#com.example.bloodbank.LogOut
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:22:19-41
+activity#com.example.bloodbank.Home
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:23:9-41
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:23:19-39
+activity#com.example.bloodbank.SignUp
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:24:19-41
+activity#com.example.bloodbank.MainActivity
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\2162362b577b95f42fe8e13cfe6280e3\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\2162362b577b95f42fe8e13cfe6280e3\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\875d0310c099dde0d290a5a8b1746a18\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\875d0310c099dde0d290a5a8b1746a18\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7ab1e7d2ab8a70ffa3d5842967c08e38\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7ab1e7d2ab8a70ffa3d5842967c08e38\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b6b56c409f262d6e2354075a9a1c3603\transformed\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b6b56c409f262d6e2354075a9a1c3603\transformed\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9a0660050ab2626e47f03e5ea2ba51a4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9a0660050ab2626e47f03e5ea2ba51a4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\2d4cefafcf60e76440d478ea2c839fad\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\2d4cefafcf60e76440d478ea2c839fad\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d0661dc44157dab575bc57733daba254\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d0661dc44157dab575bc57733daba254\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\99adbdcf7d83aa19480b79753eabe945\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\99adbdcf7d83aa19480b79753eabe945\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\0eebdd3c719ac11bef042a88e1ecfb4c\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\0eebdd3c719ac11bef042a88e1ecfb4c\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7f9c51f97ad623aaaacfe2f30dd698f0\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7f9c51f97ad623aaaacfe2f30dd698f0\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7157932ea1f8a7150039aea6456574c7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7157932ea1f8a7150039aea6456574c7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\737b1a5fb970ed81ec96adcccd707d06\transformed\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\737b1a5fb970ed81ec96adcccd707d06\transformed\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\6119a0fe12f42df2368c488c71c89bcc\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\6119a0fe12f42df2368c488c71c89bcc\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c6039a455da53dd89411a337c12b45d8\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c6039a455da53dd89411a337c12b45d8\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\cd26661234726f4949933b55025f7630\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\cd26661234726f4949933b55025f7630\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\aa3d64685820f83ad8dd26017886c87b\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\aa3d64685820f83ad8dd26017886c87b\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d8735fe73d18dabd7989d38d9723aac2\transformed\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d8735fe73d18dabd7989d38d9723aac2\transformed\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\4540d470db6da44a738c1665a5121009\transformed\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\4540d470db6da44a738c1665a5121009\transformed\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3b398ea0462cfbe0b9bee6518ed83af4\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3b398ea0462cfbe0b9bee6518ed83af4\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a5dcb88af21102a7848020accf3622c7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a5dcb88af21102a7848020accf3622c7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b65fb00da8ba0c1ace080ae0b3f52811\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b65fb00da8ba0c1ace080ae0b3f52811\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\e5ba8ab11887156e68b51536b337588b\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\e5ba8ab11887156e68b51536b337588b\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\384e3f963c476b89d61fdbfd037e9d8c\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\384e3f963c476b89d61fdbfd037e9d8c\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f17ebcfc80a6fd1594585f2db1e9dafa\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f17ebcfc80a6fd1594585f2db1e9dafa\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d10b013836b7b2e3b366c7528a68beaf\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d10b013836b7b2e3b366c7528a68beaf\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\67cbff836573cf03de2444812a93344d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\67cbff836573cf03de2444812a93344d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a3ff32ef5d2808b49ebf8e891b925eba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a3ff32ef5d2808b49ebf8e891b925eba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f0402125175d910de7380a17d782c686\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f0402125175d910de7380a17d782c686\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3f7702c6a2c40601398ffb3f6cbf3db5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3f7702c6a2c40601398ffb3f6cbf3db5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9a2a0ecf086e3f5f3ac87aa34f64ea6b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9a2a0ecf086e3f5f3ac87aa34f64ea6b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9462b3ef9af2ccbcdec50fcaf68af8a3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9462b3ef9af2ccbcdec50fcaf68af8a3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7e1d929a5ac90d1e9cee61485da2ef09\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7e1d929a5ac90d1e9cee61485da2ef09\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\19be963cda59ca85c4df8353c5146773\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\19be963cda59ca85c4df8353c5146773\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\20ee99555c5d24c394bb379fa707cfa9\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\20ee99555c5d24c394bb379fa707cfa9\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\6e7bb72d29dc3ad846c4ef7a2dd7defb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\6e7bb72d29dc3ad846c4ef7a2dd7defb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\26867c381dfd7ecafbaf4e0b6e0c07d4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\26867c381dfd7ecafbaf4e0b6e0c07d4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9a0e3796ce949eeaa6fdb49fb4c290cf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9a0e3796ce949eeaa6fdb49fb4c290cf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\5d5637557781c066d54f10e174192d68\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\5d5637557781c066d54f10e174192d68\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\4cb5a44a2daae1bb944441949e7a4cd6\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\4cb5a44a2daae1bb944441949e7a4cd6\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b934dd1b8c5e55737621b96b632a6c31\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b934dd1b8c5e55737621b96b632a6c31\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\556d004c7dbb2806ed9291dd60be97e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\556d004c7dbb2806ed9291dd60be97e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\07156eed3b322c13f4df814a749ad87d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\07156eed3b322c13f4df814a749ad87d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\76db4f7dfd07bc6e4f80ad7a74f47fb6\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\76db4f7dfd07bc6e4f80ad7a74f47fb6\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\cdff0965d9deac1d5b29ea1c18501a78\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\cdff0965d9deac1d5b29ea1c18501a78\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\44ab3fd061aec26a9a4c2a111750f29f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\44ab3fd061aec26a9a4c2a111750f29f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\5fbc1ea6d3dbb12382be1227cbf7b228\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\5fbc1ea6d3dbb12382be1227cbf7b228\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\0cd1ace46fc7a4183db736c81cda3598\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\0cd1ace46fc7a4183db736c81cda3598\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\358b6e48dcb770a51c63bc33382d2cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\358b6e48dcb770a51c63bc33382d2cdc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\5f6566c38452ac200189c873311e7040\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\5f6566c38452ac200189c873311e7040\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\31c0384895539f2fafe80395fc5f555b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\31c0384895539f2fafe80395fc5f555b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\e698c9d62af73dbcfa8ec1ba1ed145ad\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\e698c9d62af73dbcfa8ec1ba1ed145ad\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\56205849cda793108dce21b1ae8c9e27\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\56205849cda793108dce21b1ae8c9e27\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\ec38ceacc072a51b92bbbcc53863a17d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\ec38ceacc072a51b92bbbcc53863a17d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a1c0e7d895d33336542416afd9a7c080\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\a1c0e7d895d33336542416afd9a7c080\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\86f035b235149c8b059c15034bf26994\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\86f035b235149c8b059c15034bf26994\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9f4611b1773a88ec63aea1975b846358\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\9f4611b1773a88ec63aea1975b846358\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3166d400fd57670ab71232d630279402\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\3166d400fd57670ab71232d630279402\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7430fd94c6b4b9b8d6e650fa3af9a054\transformed\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7430fd94c6b4b9b8d6e650fa3af9a054\transformed\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Blood_Bank_APp\Blood_Bank-master\Blood_Bank-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d8735fe73d18dabd7989d38d9723aac2\transformed\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d8735fe73d18dabd7989d38d9723aac2\transformed\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d8735fe73d18dabd7989d38d9723aac2\transformed\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d8735fe73d18dabd7989d38d9723aac2\transformed\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7430fd94c6b4b9b8d6e650fa3af9a054\transformed\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7430fd94c6b4b9b8d6e650fa3af9a054\transformed\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\fd4d1b463668e8edec97b1004027a820\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b0c4bea53ff57f01e94fc5be3396fd10\transformed\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7157932ea1f8a7150039aea6456574c7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7157932ea1f8a7150039aea6456574c7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7157932ea1f8a7150039aea6456574c7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\7157932ea1f8a7150039aea6456574c7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d8735fe73d18dabd7989d38d9723aac2\transformed\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d8735fe73d18dabd7989d38d9723aac2\transformed\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\c10d70bc870b69b3b91b83be5395bc44\transformed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\f3170d3396994e0e8a82532e774f3a7f\transformed\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\649a1dc76e28c65dd821d88d931a7a04\transformed\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\04e2d8bb7f16a4457fbe975c0bd8bd75\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\d5eb8f922db156cbfa63568df1407fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b65fb00da8ba0c1ace080ae0b3f52811\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b65fb00da8ba0c1ace080ae0b3f52811\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Amiecart-Lap\.gradle\caches\transforms-3\b65fb00da8ba0c1ace080ae0b3f52811\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
