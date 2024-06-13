@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml:2:3-51
+		INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+		INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml:3:3-5:17
+	android:supportsRtl
+		ADDED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml:3:16-42
+uses-sdk
+INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+		ADDED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+		INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+		ADDED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml
+		INJECTED from E:\DharmaAndroid Projects\new app 2024\codecanyon-Vn1PU10q-place-finder-android-app\Place Finder Package V1.7\Source Code\AndroidCode\BloodDonarApp\PlaceFinder_V1.7\nativetemplates\src\main\AndroidManifest.xml

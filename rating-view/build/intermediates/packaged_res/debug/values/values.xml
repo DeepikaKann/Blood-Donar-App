@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RatingView</string>
+    <declare-styleable name="RatingView">
+        <attr format="dimension" name="drawable_margin"/>
+        <attr format="dimension" name="drawable_size"/>
+        <attr format="integer" name="max_count"/>
+        <attr format="float" name="rating"/>
+        <attr format="boolean" name="is_indicator"/>
+        <attr format="reference" name="drawable_empty"/>
+        <attr format="reference" name="drawable_filled"/>
+        <attr format="reference" name="drawable_half"/>
+    </declare-styleable>
+</resources>

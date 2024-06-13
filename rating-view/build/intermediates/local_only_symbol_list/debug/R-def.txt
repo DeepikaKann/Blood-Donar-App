@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+attr? drawable_empty
+attr? drawable_filled
+attr? drawable_half
+attr? drawable_margin
+attr? drawable_size
+attr? is_indicator
+attr? max_count
+attr? rating
+drawable ic_star_empty
+drawable ic_star_filled
+drawable ic_star_half
+string app_name
+styleable RatingView drawable_margin drawable_size max_count rating is_indicator drawable_empty drawable_filled drawable_half
